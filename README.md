@@ -2,4 +2,4 @@
 
 boas vindas!
 sou lohanne, estou estudando no alura.
-estou me desenvolvendo na linguagem javascript! 
+e estou me desenvolvendo na linguagem javascript! 
