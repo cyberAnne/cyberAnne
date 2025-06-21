@@ -1,4 +1,4 @@
-# 👩‍💻 Lohan Oliveira
+# 👩‍💻 Lohanne Oliveira
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 🌌 Futura astrônoma — em busca de unir tecnologia e ciência  
