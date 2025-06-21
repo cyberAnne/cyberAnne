@@ -29,9 +29,9 @@ Sou apaixonada por programação, aprendizado e tudo que envolva o universo (lit
 
 | Projeto | Descrição | Status |
 |--------|-----------|--------|
-| `quiz-astronomia` | Quiz interativo sobre o universo, com níveis e pontuação | 👩‍🔬 Em construção |
+| `quiz-astronomia` | Quiz interativo sobre o universo, com níveis e pontuação | 👩‍🔬 Em rascunho |
 | `planner-terminal` | Organizador diário no terminal com sistema de tarefas e foco | 🧘 Em rascunho |
-| `simulador-personalidade` | Teste de personalidade no estilo MBTI, divertido e simples | 🧠 Quase pronto |
+| `simulador-personalidade` | Teste de personalidade no estilo MBTI, divertido e simples | 🧠 em rascunho |
 
 ---
 
